@@ -30,6 +30,7 @@ LOCAL_SHARED_LIBRARIES := \
     libcutils \
     libdl \
     libmedia \
+    liblog
 
 LOCAL_MODULE := libfmjni
 LOCAL_MODULE_TAGS := optional
